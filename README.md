@@ -6,7 +6,7 @@ Requirements: Have Python installed.
 Steps:
 
 1) Open the browser console
-2) Open the followers or followed modal/window
+2) Open the followers or following modal/window
 3) Scroll to the end of the list
 4) Select and copy the div with class "_aano". This contains urls to the followers/following profiles. See attached.
      4.1) Paste the followers into a file and save it as "followers.txt"
