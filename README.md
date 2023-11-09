@@ -8,7 +8,7 @@ Steps:
 1) Open the browser console
 2) Open the followers or followed modal/window
 3) Scroll to the end of the list
-4) Select and copy the div with class "_aano". This contains urls to the followers/followed profiles. See attached.
+4) Select and copy the div with class "_aano". This contains urls to the followers/following profiles. See attached.
      4.1) Paste the followers into a file and save it as "followers.txt"
      4.2) Paste the followings into a file and save it as "following.txt"
 5) Once these files are created (they need to be saved at the same level as the pygr4m.py file)
