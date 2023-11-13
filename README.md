@@ -1,4 +1,6 @@
 # pygr4m
+Because Meta removed followers and following from file downloads, I did this workaround.
+
 Know who doesn't follow you
 
 Requirements: Have Python installed.
